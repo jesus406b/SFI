@@ -11,3 +11,12 @@ Es donde realizas cambios, commits y pruebas antes de compartir tu trabajo.
 Repositorio Remoto:Es una copia del repositorio que reside en un servidor en la nube o en otra ubicación accesible.
 Es utilizado para colaborar con otros desarrolladores y compartir el código.
 Permite la sincronización de cambios entre diferentes colaboradores del proyecto.
+c)Mencione 3 diferencias entre git y github?
+•  Git:
+o	Funciona localmente en tu computadora.
+o	Permite realizar commits, crear ramas, fusionar cambios, entre otras operaciones.
+o	No requiere conexión a internet para funcionar (excepto para sincronizar cambios con repositorios remotos).
+•  GitHub:
+o	Proporciona almacenamiento en la nube para repositorios Git.
+o	Facilita la colaboración entre desarrolladores en un proyecto.
+o	solicitudes de extracción (pull requests), y wikis.
