@@ -25,3 +25,5 @@ RTA
 •  Área de trabajo: Donde editas tus archivos.
 •  Área de preparación: Donde preparas los cambios específicos para el próximo commit.
 •  Directorio Git: Donde se almacena la historia completa de tu proyecto, incluidos los commits y metadatos.
+e)para que se utilizan las ramas en git
+RTA: Las ramas en Git son una característica fundamental que permite a los desarrolladores trabajar en paralelo en diferentes versiones del código de un proyecto.
