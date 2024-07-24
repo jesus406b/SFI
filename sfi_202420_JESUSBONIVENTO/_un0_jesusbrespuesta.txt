@@ -20,3 +20,8 @@ o	No requiere conexión a internet para funcionar (excepto para sincronizar camb
 o	Proporciona almacenamiento en la nube para repositorios Git.
 o	Facilita la colaboración entre desarrolladores en un proyecto.
 o	solicitudes de extracción (pull requests), y wikis.
+d)área de trabajo, área de preparación(ubicarse para la foto) y directorio git(toma de la foto)podrías explicar en que consiste?
+RTA
+•  Área de trabajo: Donde editas tus archivos.
+•  Área de preparación: Donde preparas los cambios específicos para el próximo commit.
+•  Directorio Git: Donde se almacena la historia completa de tu proyecto, incluidos los commits y metadatos.
