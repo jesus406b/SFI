@@ -1,3 +1,13 @@
 a)que es un sistema de control de versiones?
 RTA:Con un Sistema de Control de Versiones se puede mantener un registro de los cambios que has 
 hecho en tus archivos 
+b)que difrencia hay entre  un repositorio local y remoto?
+
+RTA:Repositorio Local:Es la copia del proyecto que resides en tu propia máquina.
+Puedes trabajar en él sin necesidad de conexión a internet.
+Contiene todo el historial de cambios y ramificaciones del proyecto.
+Es donde realizas cambios, commits y pruebas antes de compartir tu trabajo.
+
+Repositorio Remoto:Es una copia del repositorio que reside en un servidor en la nube o en otra ubicación accesible.
+Es utilizado para colaborar con otros desarrolladores y compartir el código.
+Permite la sincronización de cambios entre diferentes colaboradores del proyecto.
